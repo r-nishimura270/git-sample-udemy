@@ -1,0 +1,165 @@
+[33mcommit e53ce0352b7ebf1fd801bcdac37bc7153a95f6ac[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Merge: 06c848e d79bc66
+Author: r-nishimura270 <r-nishimura@gbc.co.jp>
+Date:   Tue Aug 5 09:47:03 2025 +0900
+
+    Merge branch 'practice'
+
+[33mcommit d79bc66a34d3c2f5025574f93bce2663ce06e085[m[33m ([m[1;32mpractice[m[33m)[m
+Author: r-nishimura270 <r-nishimura@gbc.co.jp>
+Date:   Tue Aug 5 09:41:00 2025 +0900
+
+    ローカルマージ
+
+[33mcommit ed1794ce07d0c7228f56ba7067adcc6a02ac46cf[m
+Author: r-nishimura270 <r-nishimura@gbc.co.jp>
+Date:   Tue Aug 5 09:37:36 2025 +0900
+
+    commit
+
+[33mcommit 0ef85021d438cd0c8a48ff886a0a1a42004839d1[m[33m ([m[1;31morigin/practice[m[33m)[m
+Author: r-nishimura270 <r-nishimura@gbc.co.jp>
+Date:   Tue Aug 5 09:28:09 2025 +0900
+
+    マージプルリクエスト
+
+[33mcommit 7b2086c4b98e94ac7beaa498fe876b9d4e5f3f38[m
+Author: r-nishimura270 <r-nishimura@gbc.co.jp>
+Date:   Tue Aug 5 09:21:46 2025 +0900
+
+    pull-request-test
+
+[33mcommit 24a67fc4252fc44670bbb20d79140d5ff75b369e[m
+Author: r-nishimura270 <r-nishimura@gbc.co.jp>
+Date:   Mon Aug 4 17:20:46 2025 +0900
+
+    push-test
+
+[33mcommit 157cafb70c12d3236b961384bde1ec59b841f5d0[m
+Author: r-nishimura270 <r-nishimura@gbc.co.jp>
+Date:   Mon Aug 4 16:57:25 2025 +0900
+
+    commitet-test
+
+[33mcommit 7653d8d270dec23068e7b0440c87da6e2a77127c[m
+Author: r-nishimura270 <r-nishimura@gbc.co.jp>
+Date:   Mon Aug 4 16:47:46 2025 +0900
+
+    add-test
+
+[33mcommit 0b5530a0938065d5f3b023707eaa021a51094c2b[m
+Author: r-nishimura270 <r-nishimura@gbc.co.jp>
+Date:   Mon Aug 4 16:38:58 2025 +0900
+
+    before add
+
+[33mcommit 5dec5d42a6b7f956485eb909e7515c6c57d2e74b[m
+Author: r-nishimura270 <r-nishimura@gbc.co.jp>
+Date:   Mon Aug 4 16:22:46 2025 +0900
+
+    Update practice-dowmload.html
+
+[33mcommit 881d51bd0b5959d746f9954c489ab3efe49ffa76[m
+Author: r-nishimura270 <r-nishimura@gbc.co.jp>
+Date:   Mon Aug 4 16:07:34 2025 +0900
+
+    Update practice-dowmload.html
+
+[33mcommit 67a3c85299a2c07eb8103d7b62fccd5dcb7d9af0[m
+Author: r-nishimura270 <r-nishimura@gbc.co.jp>
+Date:   Mon Aug 4 16:05:51 2025 +0900
+
+    コミット確認中
+
+[33mcommit acce804c66d1395a20ba7d41f04e08e7f35580a7[m
+Merge: eb7ebd1 3f84f96
+Author: r-nishimura270 <r-nishimura@gbc.co.jp>
+Date:   Mon Aug 4 16:01:06 2025 +0900
+
+    コンフリクト解消
+
+[33mcommit 3f84f96a7411f5fd6404b971a59b419b1bd6192b[m
+Author: r-nishimura270 <r-nishimura@gbc.co.jp>
+Date:   Mon Aug 4 15:58:47 2025 +0900
+
+    Update git-branch-practice.html
+
+[33mcommit 06c848e0b89dc0977c220cb09ab8aa6f22c87ca7[m
+Author: r-nishimura270 <r-nishimura@gbc.co.jp>
+Date:   Mon Aug 4 15:56:54 2025 +0900
+
+    diff練習中
+
+[33mcommit d16e484c0d5b24298ba1294e49f1f594295167d3[m
+Author: r-nishimura270 <r-nishimura@gbc.co.jp>
+Date:   Mon Aug 4 11:39:14 2025 +0900
+
+    status確認中
+
+[33mcommit 117dc0544049b5196225ff0f05ae824cd0155f7b[m
+Merge: 56a5f61 eb7ebd1
+Author: r-nishimura270 <r-nishimura@gbc.co.jp>
+Date:   Mon Aug 4 11:32:26 2025 +0900
+
+    Merge branch 'practice'
+    ローカルマージのテスト中です
+
+[33mcommit eb7ebd139a62d3a512ae0576983be8f2f868e949[m
+Author: r-nishimura270 <r-nishimura@gbc.co.jp>
+Date:   Mon Aug 4 11:31:28 2025 +0900
+
+    localのマージを確認中
+
+[33mcommit 5a987c132bc8e1623df6bfdece4eebceed45545d[m
+Author: r-nishimura270 <r-nishimura@gbc.co.jp>
+Date:   Mon Aug 4 11:23:29 2025 +0900
+
+    プルリクのチェック中
+
+[33mcommit 5628c225ace36c0dd9336d99a5a3bfef7c462e33[m
+Author: r-nishimura270 <r-nishimura@gbc.co.jp>
+Date:   Mon Aug 4 11:06:24 2025 +0900
+
+    practiceにファイル足しました
+
+[33mcommit 56a5f615ce74b2a26dc4ffca5adfb6709242ddd6[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: r-nishimura270 <r-nishimura@gbc.co.jp>
+Date:   Mon Aug 4 11:03:47 2025 +0900
+
+    branch mainに追加しました
+
+[33mcommit 7d49f1504106852feb3ffc1ae3075f5a952f7723[m[33m ([m[1;32mswitch-to-practice[m[33m)[m
+Author: r-nishimura270 <r-nishimura@gbc.co.jp>
+Date:   Mon Aug 4 10:56:19 2025 +0900
+
+    add env_example
+
+[33mcommit f92debca4d39dfd62a7b0f447a88bdc10a7bd138[m
+Author: r-nishimura270 <r-nishimura@gbc.co.jp>
+Date:   Mon Aug 4 10:51:55 2025 +0900
+
+    gitignoreをつくる
+
+[33mcommit 5dabbf1b30f48124d7e4715aa4bab2dbf447769a[m
+Author: r-nishimura270 <r-nishimura@gbc.co.jp>
+Date:   Mon Aug 4 10:48:19 2025 +0900
+
+    addの4回目
+
+[33mcommit 700fb486b6b0f862954e1c339b6aed10eb8711da[m
+Author: r-nishimura270 <r-nishimura@gbc.co.jp>
+Date:   Mon Aug 4 10:47:25 2025 +0900
+
+    更新内容の説明
+
+[33mcommit 3148e7516550f18cbe6cacacb491473c3d0b90fc[m
+Author: r-nishimura270 <r-nishimura@gbc.co.jp>
+Date:   Mon Aug 4 10:41:01 2025 +0900
+
+    2nd push
+
+[33mcommit 1bd10e2b45a7e6ffb9333f4b1192dce00f9127c4[m
+Author: r-nishimura270 <r-nishimura@gbc.co.jp>
+Date:   Mon Aug 4 10:25:52 2025 +0900
+
+    はじめてのgit
